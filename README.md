@@ -8,11 +8,11 @@ L'objectiu principal és identificar patrons de comportament i perfils de consum
 
 Per facilitar la consulta i reproductibilitat del projecte, s'inclou:
 
-* **Memòria Completa:** El document PDF amb tot el desenvolupament teòric i les conclusions.
+* [**Memòria Completa:**](tfg.pdf) El document PDF amb tot el desenvolupament teòric i les conclusions.
 
-* **Codi Font:** El script de R utilitzat per al processament, neteja i segmentació de les dades.
+* [**Codi Font:**](Script.R) El script de R utilitzat per al processament, neteja i segmentació de les dades.
 
-* **Base de Dades:** El conjunt de dades original procedent de l'enquesta d'hàbits de consum utilitzat com a base de l'estudi.
+* [**Base de Dades:**](Dades) El conjunt de dades original procedent de l'enquesta d'hàbits de consum utilitzat com a base de l'estudi.
 
 
 ## 📊 Resultats Destacats
