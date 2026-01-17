@@ -4,7 +4,7 @@ Aquest repositori conté el treball de recerca i el desenvolupament tècnic del 
 
 L'objectiu principal és identificar patrons de comportament i perfils de consumidors mitjançant *Latent Class Analisys* (LCA), proporcionant una visió detallada de la realitat del consum a l'àrea de Barcelona.
 
-📂 Contingut del repositori
+## 📂 Contingut del repositori
 
 Per facilitar la consulta i reproductibilitat del projecte, s'inclou:
 
@@ -15,7 +15,7 @@ Per facilitar la consulta i reproductibilitat del projecte, s'inclou:
 * **Base de Dades:** El conjunt de dades original procedent de l'enquesta d'hàbits de consum utilitzat com a base de l'estudi.
 
 
-📊 Resultats Destacats
+## 📊 Resultats Destacats
 
 L'anàlisi mitjançant Latent Class Analysis (LCA) ha permès identificar tres perfils de consumidors a la província de Barcelona, diferenciats pels seus valors i nivell d'exigència, més que no pas per la seva despesa econòmica:
 
@@ -28,7 +28,7 @@ L'anàlisi mitjançant Latent Class Analysis (LCA) ha permès identificar tres p
 Mencionar també que els valors (ecologia, proximitat, comerç just) són els veritables motors de segmentació i que el volum de despesa mensual no és un factor diferenciador entre els grups identificats.
   
 
-📧 Contacte
+## 📧 Contacte
 
 Si tens algun dubte sobre la metodologia o les dades:
 
