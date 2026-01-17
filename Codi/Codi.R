@@ -6,6 +6,7 @@ library(poLCA)
 library(ggplot2)
 library(reshape2)
 library(tidyr)
+library(dplyr)
 
 # CARREGUEM LES DADES
 dades <- read_ods("DADES_habitsconsum_provbarcelona2024.ods", sheet = 1)  
