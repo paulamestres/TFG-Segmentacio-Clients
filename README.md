@@ -8,7 +8,7 @@ L'objectiu principal és identificar patrons de comportament i perfils de consum
 
 Per facilitar la consulta i reproductibilitat del projecte, s'inclou:
 
-* [**Memòria Completa:**](Segmentacio-Clients_TFG_MestresGarciaPaula.pdf) El document PDF amb tot el desenvolupament teòric i les conclusions.
+* [**Memòria Completa:**](Segmentacio-Clients _TFG_MestresGarciaPaula.pdf.pdf) El document PDF amb tot el desenvolupament teòric i les conclusions.
 
 * [**Codi Font:**](Script.R) El script de R utilitzat per al processament, neteja i segmentació de les dades.
 
